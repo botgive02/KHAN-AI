@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KHAN-MD~L3h0Ra6R#ew-3Yj8oTEm_SMUNybJXMIGoZzcRhfqiT9m7Z4u0Wbk",
       "required": true,
-      "value": ""
+      "value": "KHAN-MD~L3h0Ra6R#ew-3Yj8oTEm_SMUNybJXMIGoZzcRhfqiT9m7Z4u0Wbk"
     },  
     
     "ALIVE_IMG": {
